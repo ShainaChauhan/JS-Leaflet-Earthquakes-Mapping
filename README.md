@@ -4,13 +4,10 @@ As part of the Data Analytics Boot Camp at the University of Toronto, I've under
 
 ## File Structure
 
-├── index.html # HTML code for the front-end graph
-├── images/ # Folder containing images
-│ └── [image files] # Images used in the project
-├── static/ # Static assets folder
-│ ├── js/ # JavaScript files
-│ │ └── logic.js # JavaScript code for the project logic
-│ └── css/ # CSS files
-│ └── style.css # CSS code for styling the project
-└── README.md # This README file
+1. index.html # HTML code for the front-end graph
+2.  images/ # Folder containing images. Images used in the project
+3. Static/ # Static assets folder
+   3.1. logic.js # JavaScript code for the project logic
+   3.2. style.css # CSS code for styling the project
+
 
